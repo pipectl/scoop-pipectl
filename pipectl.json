@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pipectl/pipectl/releases/download/v0.0.1/pipectl_0.0.1_windows_amd64.zip",
+            "bin": [
+                "pipectl.exe"
+            ],
+            "hash": "b89671399e96aa0135b22ec1c934fa34ee5f44f297a41d4ab6544c855a2b140f"
+        },
+        "arm64": {
+            "url": "https://github.com/pipectl/pipectl/releases/download/v0.0.1/pipectl_0.0.1_windows_arm64.zip",
+            "bin": [
+                "pipectl.exe"
+            ],
+            "hash": "68bd05352ab92040930a7984dce45e9bd0c9887c56005ed42cab460d656967df"
+        }
+    },
+    "homepage": "https://github.com/pipectl/pipectl",
+    "license": "MIT",
+    "description": "Run YAML-defined data pipelines from the command line."
+}

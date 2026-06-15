@@ -1,19 +1,19 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pipectl/pipectl/releases/download/v0.0.6/pipectl_0.0.6_windows_amd64.zip",
+            "url": "https://github.com/pipectl/pipectl/releases/download/v0.0.7/pipectl_0.0.7_windows_amd64.zip",
             "bin": [
                 "pipectl.exe"
             ],
-            "hash": "29aeec0bd96c5040b6f35f593bf014acdd7c0731d5b965e894328a1bd8b5e010"
+            "hash": "ce2d719d1371c1058c95a52bff3bdfee01f920c4bbbc9f5e8fa1fe037d0ac076"
         },
         "arm64": {
-            "url": "https://github.com/pipectl/pipectl/releases/download/v0.0.6/pipectl_0.0.6_windows_arm64.zip",
+            "url": "https://github.com/pipectl/pipectl/releases/download/v0.0.7/pipectl_0.0.7_windows_arm64.zip",
             "bin": [
                 "pipectl.exe"
             ],
-            "hash": "688a4f334c43645f55238ab25a7e7b01d0ead021c6242fdde192abf3a8762559"
+            "hash": "aaf8ac92697943d8023c93f2780b8f246c5bef184aa81ca542d3704393a8f9d2"
         }
     },
     "homepage": "https://github.com/pipectl/pipectl",
